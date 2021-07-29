@@ -19,7 +19,7 @@ void print(int len, int wth) {
 }
 
 void input(int &len, int &wth){
-
+cout<<"Input length as 10 and width as 5.";
 cin>>len>>wth;
 }
 
